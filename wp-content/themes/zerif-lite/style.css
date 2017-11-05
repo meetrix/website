@@ -4,7 +4,7 @@ Theme URI: https://themeisle.com/themes/zerif-lite/
 Author: ThemeIsle
 Author URI: https://themeisle.com
 Description: Zerif LITE is a free one page WordPress theme. It's perfect for web agency business,corporate business,personal and parallax business portfolio, photography sites and freelancer.Is built on BootStrap with parallax support, is responsive, clean, modern, flat and minimal. Zerif Lite is ecommerce (WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with parallax, full screen image is one of the best business themes.
-Version: 1.8.5.29
+Version: 1.8.5.30
 License: GNU General Public License version 3
 License URI: license.txt
 Text Domain: zerif-lite
@@ -24,8 +24,6 @@ html {
 	-webkit-text-size-adjust: 100%; /* Prevents iOS text size adjust after orientation change, without disabling user zoom */
 	-ms-text-size-adjust: 100%; /* www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
 }
-
-.bypostauthor {}
 
 html,
 body,
@@ -166,6 +164,8 @@ body {
 	line-height: 25px;
 	text-align: center;
 }
+
+.bypostauthor {}
 
 /* Internet Explorer 10 in Windows 8 and Windows Phone 8 Bug fix */
 @-webkit-viewport {
@@ -2571,6 +2571,7 @@ ul.nav > li.current_page_item.current > a:before {
 	margin-bottom: 0;
 	font-weight: 700;
 	text-transform: uppercase;
+	overflow: hidden;
 }
 .skills .skill p {
 	color: #8f8f8f;

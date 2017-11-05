@@ -159,8 +159,6 @@ if ( $there_is_skills != '' ) :
 
 <ul class="skills" data-scrollreveal="enter right after 0s over 1s">
 
-/**
-
 <!-- SKILL ONE -->
 <?php
 if ( ! empty( $zerif_aboutus_feature1_nr ) || ! empty( $zerif_aboutus_feature1_title ) || ! empty( $zerif_aboutus_feature1_text ) ) {
@@ -296,7 +294,6 @@ if ( ! empty( $zerif_aboutus_feature4_nr ) || ! empty( $zerif_aboutus_feature4_t
 
 ?>
 
-**/
 			</ul>
 
 		</div> <!-- / END SKILLS COLUMN-->
