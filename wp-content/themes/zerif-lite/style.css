@@ -412,10 +412,10 @@ h6 {
 	text-transform: uppercase;
 }
 .red-btn {
-	background: #e96656;
+	background: #135e91;
 }
 .green-btn {
-	background: #1e9e6b;
+	background: #135e91;
 }
 .blue-btn {
 	background: #3ab0e2;
@@ -1539,7 +1539,7 @@ object {
 .section-header .section-legend {
 	margin-bottom: 0;
 	padding-top: 0;
-	color: #000;
+	color: #8ea3b2;
 	font-size: 16px;
 }
 
@@ -1642,7 +1642,7 @@ object {
 .navbar {
 	border: 0;
 	border-radius: 0 !important;
-	background: #fff;
+	background: #0b95f4;
 	text-align: left;
 }
 #main-nav {
@@ -2071,7 +2071,7 @@ ul.nav > li.current_page_item.current > a:before {
 	margin: auto;
 	margin-bottom: 30px;
 	margin-bottom: 20px;
-	border: 10px solid #ececec;
+	border: 10px solid #135e91;
 	border-radius: 50%;
 	-webkit-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
@@ -2121,7 +2121,7 @@ ul.nav > li.current_page_item.current > a:before {
 	width: auto;
 	margin-bottom: 15px;
 	margin-bottom: 30px;
-	color: #404040;
+	color: #1b75bb;
 	background: none;
 	font-size: 17px;
 	font-weight: bold;
@@ -2136,7 +2136,7 @@ ul.nav > li.current_page_item.current > a:before {
 
 .focus a.zerif-default-links,
 .our-team a.zerif-default-links {
-	color: #404040;
+	color: #1b75bb;
 }
 .about-us a.zerif-default-links,
 .separator-one a.zerif-default-links,
