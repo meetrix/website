@@ -1912,6 +1912,7 @@ ul.nav > li.current_page_item.current > a:before {
 	float: none;
 	z-index: 0;
 	color: #1b75bb;
+	font-family: "pacifo";
 	font-size: 55px;
 	line-height: 65px;
 	text-align: center;
@@ -3276,7 +3277,7 @@ ul.nav > li.current_page_item.current > a:before {
 
 .contact-us {
 	padding-bottom: 95px;
-	background: rgba(0, 0, 0, 0.5);
+	background: rgba(142, 163, 178, 0.5);
 }
 .contact-us .section-header .section-legend {
 	color: #fff;
