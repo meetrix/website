@@ -1594,7 +1594,7 @@ object {
 .header-content-wrap {
 	position: relative;
 	padding: 285px 0 210px;
-	background: rgba(0, 0, 0, 0.5);
+
 	-webkit-box-shadow: 0 5px 11px 0 rgba(50, 50, 50, 0.08);
 	box-shadow: 0 5px 11px 0 rgba(50, 50, 50, 0.08);
 }
