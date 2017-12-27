@@ -2197,10 +2197,10 @@ ul.nav > li.current_page_item.current > a:before {
 	background: rgba(52, 210, 147, 0.8);
 }
 .separator-one .green-btn {
-	background: #14a168;
+	background: #135e91;
 }
 .separator-one .green-btn:hover {
-	background: #007345;
+	background: #0b95f4;
 }
 .separator-one .text {
 	max-width: 800px;
