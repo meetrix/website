@@ -565,7 +565,7 @@ thead th {
 	color: #f7d861;
 }
 .dark-text {
-	color: #404040;
+	color: #0b95f4;
 }
 .white-text {
 	color: #fff;
@@ -1842,7 +1842,7 @@ object {
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-	color: #e96656;
+	color: #6d6e70;
 }
 .navbar-inverse .navbar-nav > li.current > a {
 	position: relative;
