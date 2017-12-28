@@ -203,11 +203,11 @@ ol {
 /* Selection colours (easy to forget) */
 ::selection {
 	color: #fff;
-	background: #fc6d6d;
+	background: #0B95F4;
 }
 ::-moz-selection {
 	color: #fff;
-	background: #fc6d6d;
+	background: #0B95F4;
 }
 a {
 	color: #e96656;
@@ -2735,6 +2735,9 @@ ul.nav > li.current_page_item.current > a:before {
 	position: relative;
 	padding-bottom: 5px;
 }
+.team-member .member-details .position{
+        color: #8EA3B2;
+}
 .team-member:hover .details,
 .team-member:focus .details {
 	top: 0;
@@ -2774,7 +2777,7 @@ ul.nav > li.current_page_item.current > a:before {
 .team-member h3 {
 	position: relative;
 	margin-top: 15px;
-	color: #404040;
+	color: #0B95F4;
 	font-size: 17px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -2803,16 +2806,16 @@ ul.nav > li.current_page_item.current > a:before {
 	color: #e96656;
 }
 .our-team .row > span:nth-child(4n+1) .red-border-bottom:before {
-	background: #e96656;
+	background: #0B95F4;
 }
 .our-team .row > span:nth-child(4n+2) .red-border-bottom:before {
-	background: #34d293;
+	background: #0B95F4;
 }
 .our-team .row > span:nth-child(4n+3) .red-border-bottom:before {
-	background: #3ab0e2;
+	background: #0B95F4;
 }
 .our-team .row > span:nth-child(4n+4) .red-border-bottom:before {
-	background: #f7d861;
+	background: #0B95F4;
 }
 
 
