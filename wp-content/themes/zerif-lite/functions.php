@@ -571,7 +571,7 @@ function zerif_slug_fonts_url() {
 	  */
 	$lato = _x( 'on', 'Lato font: on or off', 'zerif-lite' );
 	$homemade = _x( 'on', 'Homemade font: on or off', 'zerif-lite' );
-
+    $pacifico = _x( 'on', 'Pacifico font: on or off', 'zerif-lite' );
 	/**
 	 * Translators: If there are characters in your language that are not
 	 * supported by Open Sans, translate this to 'off'. Do not translate
@@ -581,12 +581,15 @@ function zerif_slug_fonts_url() {
 
 	$zerif_use_safe_font = get_theme_mod( 'zerif_use_safe_font' );
 
-	if ( ( 'off' !== $lato || 'off' !== $monserrat || 'off' !== $homemade ) && isset( $zerif_use_safe_font ) && ($zerif_use_safe_font != 1) ) {
+	if ( ( 'off' !== $lato || 'off' !== $monserrat || 'off' !== $homemade || 'off' !== $pacifico) && isset( $zerif_use_safe_font ) && ($zerif_use_safe_font != 1) ) {
 		$font_families = array();
 
 		if ( 'off' !== $lato ) {
 			$font_families[] = 'Lato:300,400,700,400italic';
 		}
+		if ( 'off' !== $pacifico ) {
+        	$font_families[] = 'Pacifico';
+        }
 		if ( 'off' !== $monserrat ) {
 			$font_families[] = 'Montserrat:400,700';
 		}
