@@ -2142,7 +2142,7 @@ ul.nav > li.current_page_item.current > a:before {
 .separator-one a.zerif-default-links,
 .testimonial a.zerif-default-links,
 .contact-us a.zerif-default-links {
-	color: #fff;
+	color: #0b95f4;
 }
 .testimonial #client-feedbacks a.zerif-default-links {
 	color: #404040;
@@ -2522,7 +2522,7 @@ ul.nav > li.current_page_item.current > a:before {
 	color: #6D6E70;
 }
 .about-us p {
-	color: #ffffff;
+	color: #6d6e70;
 	font-size: 14px;
 	line-height: 25px;
 	text-align: left;
