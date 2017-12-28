@@ -412,10 +412,10 @@ h6 {
 	text-transform: uppercase;
 }
 .red-btn {
-	background: #135e91;
+	background: #1B75BB;
 }
 .green-btn {
-	background: #135e91;
+	background: #1B75BB;
 }
 .blue-btn {
 	background: #3ab0e2;
@@ -1911,7 +1911,7 @@ ul.nav > li.current_page_item.current > a:before {
 .intro-text a {
 	float: none;
 	z-index: 0;
-	color: #1b75bb;
+	color: #0B95F4;
 	font-family: "pacifo";
 	font-size: 55px;
 	line-height: 65px;
