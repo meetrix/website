@@ -553,7 +553,7 @@ thead th {
 
 /** FOR TEXTS AND ICON FONTS **/
 .red-text {
-	color: #e96656;
+	color: #0b95f4;
 }
 .green-text {
 	color: #34d293;
@@ -3139,7 +3139,7 @@ ul.nav > li.current_page_item.current > a:before {
 	margin: 13px;
 	padding: 25px;
 	border-radius: 4px;
-	background: #fff;
+	background: #6d6e70;
 	-webkit-box-shadow: none;
 	box-shadow: none;
 	text-align: left;
@@ -3147,7 +3147,7 @@ ul.nav > li.current_page_item.current > a:before {
 }
 .feedback-box .message,
 .testimonial .widget_zerif_testim-widget .message {
-	color: #000;
+	color: #ffffff;
 	font-size: 15px;
 }
 .feedback-box .client,
@@ -3170,7 +3170,7 @@ ul.nav > li.current_page_item.current > a:before {
 }
 .feedback-box .client-info .client-name,
 .testimonial .widget_zerif_testim-widget .client-name {
-	color: #404040;
+	color: #ffffff;
 	font-family: "Homemade Apple", serif;
 }
 .feedback-box .client-info .client-company,
