@@ -3253,6 +3253,7 @@ ul.nav > li.current_page_item.current > a:before {
 	padding-top: 70px;
 	padding-bottom: 70px;
 	background: #8ea3b2;
+	display: none;
 }
 .purchase-now h3 {
 	margin-top: 14px;
