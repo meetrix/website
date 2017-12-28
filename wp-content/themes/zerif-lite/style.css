@@ -2195,6 +2195,7 @@ ul.nav > li.current_page_item.current > a:before {
 .separator-one {
 	padding: 100px 0 100px 0;
 	background: rgba(142, 163, 178, 0.8);
+	display: none;
 }
 .separator-one .green-btn {
 	background: #135e91;
@@ -3125,7 +3126,7 @@ ul.nav > li.current_page_item.current > a:before {
 
 .testimonial {
 	padding-bottom: 90px;
-	background: #135e91;
+	background: #ffffff;
 }
 .testimonial .section-header .section-legend {
 	color: #fff;
