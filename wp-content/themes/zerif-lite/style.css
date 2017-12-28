@@ -203,7 +203,7 @@ ol {
 /* Selection colours (easy to forget) */
 ::selection {
 	color: #fff;
-	background: #0B95F4;
+	background: #fff;
 }
 ::-moz-selection {
 	color: #fff;
@@ -568,7 +568,7 @@ thead th {
 	color: #0b95f4;
 }
 .white-text {
-	color: #fff;
+	color: #0B95F4;
 }
 
 
@@ -1847,7 +1847,7 @@ object {
 .navbar-inverse .navbar-nav > li.current > a {
 	position: relative;
 	outline: none;
-	color: #e96656;
+	color: #135E91;
 }
 ul.nav > li.menu-item-home > a:before {
 	display: none;
@@ -1861,7 +1861,7 @@ li.current > a:before {
 	width: 75%;
 	height: 2px;
 	margin: auto;
-	background: #e96656;
+	background: #135E91;
 	content: "";
 }
 ul.nav > li.current > a:before,
@@ -1876,7 +1876,7 @@ ul.nav > li.current > a:before,
 	width: 75%;
 	height: 2px;
 	margin: auto;
-	background: #e96656;
+	background: #135E91;
 	content: "";
 }
 ul.nav > li.current_page_item.menu-item-home > a:before {
@@ -2103,16 +2103,16 @@ ul.nav > li.current_page_item.current > a:before {
 	border: 10px solid #f7d861;
 }
 #focus span:nth-child(4n+1) .focus-box .red-border-bottom:before {
-	background: #e96656;
+	background: #ffffff;
 }
 #focus span:nth-child(4n+2) .focus-box .red-border-bottom:before {
-	background: #34d293;
+	background: #ffffff;
 }
 #focus span:nth-child(4n+3) .focus-box .red-border-bottom:before {
-	background: #3ab0e2;
+	background: #ffffff;
 }
 #focus span:nth-child(4n+4) .focus-box .red-border-bottom:before {
-	background: #f7d861;
+	background: #ffffff;
 }
 .focus-box h3 {
 	display: inline-block;
@@ -2128,7 +2128,7 @@ ul.nav > li.current_page_item.current > a:before {
 	text-transform: uppercase;
 }
 .focus-box p {
-	color: #808080;
+	color: #6D6E70;
 	font-size: 14px;
 }
 
@@ -2509,7 +2509,7 @@ ul.nav > li.current_page_item.current > a:before {
 
 .about-us {
 	color: #fff;
-	background: #135e91;
+	background: #fff;
 }
 .about-us .big-intro {
 	margin-top: -15px;
@@ -2519,7 +2519,7 @@ ul.nav > li.current_page_item.current > a:before {
 	text-align: right;
 }
 .about-us .section-header .section-legend {
-	color: #fff;
+	color: #6D6E70;
 }
 .about-us p {
 	color: #ffffff;
@@ -2806,16 +2806,16 @@ ul.nav > li.current_page_item.current > a:before {
 	color: #e96656;
 }
 .our-team .row > span:nth-child(4n+1) .red-border-bottom:before {
-	background: #0B95F4;
+	background: #ffffff;
 }
 .our-team .row > span:nth-child(4n+2) .red-border-bottom:before {
-	background: #0B95F4;
+	background: #ffffff;
 }
 .our-team .row > span:nth-child(4n+3) .red-border-bottom:before {
-	background: #0B95F4;
+	background: #ffffff;
 }
 .our-team .row > span:nth-child(4n+4) .red-border-bottom:before {
-	background: #0B95F4;
+	background: #ffffff;
 }
 
 
